@@ -1,0 +1,3 @@
+var subject=[[{"image":"images/jia.png","options":["田","甲","亩"],"answer":"甲"},{"image":"images/wang.png","options":["巫","玉","王"],"answer":"王"},{"image":"images/wen.png","options":["文","鱼","叉"],"answer":"文"},{"image":"images/wu.png","options":["巫","田","壬"],"answer":"巫"},{"image":"images/niu.png","options":["干","半","牛"],"answer":"牛"},{"image":"images/shi.png","options":["山","十","屮"],"answer":"十"}]];
+var writeSubject=[[["甲","jia.png"],["王","wang.png"],["文","wen.png"],["巫","wu.png"],["牛","niu.png"],["十","shi.png"]]];
+var imagesArr={"jia":"images/jia.png","wang":"images/wang.png","wu":"images/wu.png","niu":"images/niu.png","shi":"images/shi.png"};

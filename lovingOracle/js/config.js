@@ -1,0 +1,1 @@
+var domainURL="127.0.0.1/lovingOracle/";
